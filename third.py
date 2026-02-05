@@ -16,3 +16,18 @@ for i in range(10):
 
 print("Even count:", even)
 print("Odd count:", odd)
+
+'''output: 
+18
+74
+36
+83
+79
+87
+50
+4
+85
+56
+Even count: 6
+Odd count: 4
+'''
