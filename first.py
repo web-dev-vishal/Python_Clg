@@ -1,4 +1,4 @@
-# Command line arguments: sum, average, maximum, minimum
+
 
 import sys
 
