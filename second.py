@@ -10,3 +10,9 @@ else:
     numbers.append(x)
     print("Number added")
     print(numbers)
+
+'''
+Enter number: 45
+Number added
+[10, 20, 30, 40, 45]
+'''
