@@ -1,3 +1,4 @@
+# Q1. 5 numbers – Sum, Average, Max, Min
 a = int(input("Enter number 1: "))
 b = int(input("Enter number 2: "))
 c = int(input("Enter number 3: "))
